@@ -16,7 +16,7 @@ terraform {
   cloud {
     organization = "andersonigt85" 
   workspaces {
-      name = "hackathon2" 
+      name = "hackathon-2" 
     }
   }
 }
